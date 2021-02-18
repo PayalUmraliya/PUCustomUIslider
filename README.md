@@ -14,11 +14,11 @@ Customised UISlider
 
 * ### Add  framework into the project as following:
 
-* 1.Select the project file from the project navigator on the left side of the project window.
-* 2.Select the target for where you want to add frameworks in the project settings editor.
-* 3.Select the “Build Phases” tab, and click the small triangle next to “Link Binary With Libraries” to view all of the frameworks in your application.
-* 4.To Add frameworks, click the “+” below the list of frameworks.
-* 5.To select multiple frameworks, press and hold the command key while using the mouse to click the desired frameworks.
+* 1 - Select the project file from the project navigator on the left side of the project window.
+* 2 - Select the target for where you want to add frameworks in the project settings editor.
+* 3 - Select the “Build Phases” tab, and click the small triangle next to “Link Binary With Libraries” to view all of the frameworks in your application.
+* 4 - To Add frameworks, click the “+” below the list of frameworks.
+* 5 - To select multiple frameworks, press and hold the command key while using the mouse to click the desired frameworks.
 
 <img src="https://github.com/PayalUmraliya/PUCustomUIslider/blob/main/x6iMB.png"/>
 
