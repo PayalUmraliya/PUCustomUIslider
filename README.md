@@ -1,4 +1,4 @@
-# PUCustomUISlider Framework
+# PUCustomUISlider - Framework
 
 Customised UISlider
 
