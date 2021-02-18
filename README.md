@@ -8,6 +8,8 @@ The MIT License (MIT)
 
 Copyright (c) 2021 TheKarma
 
+### Metadata
+
 #### A framework is a hierarchical directory that encapsulates a dynamic library, header files, and resources, such as storyboards, image files, and localized strings, into a single package. Apps using frameworks need to embed the framework in the app's bundle.
 
 #### PUCustomUIslider is also such kind of framework and using it you can apply customisation in your native slider such as background color or gradient background color, slider height, thumb color, thumb image, background image and its framing etc.
