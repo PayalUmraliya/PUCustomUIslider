@@ -16,7 +16,7 @@ Copyright (c) 2021 TheKarma
 
 ### Example project output
 
-<img src="https://github.com/PayalUmraliya/PUCustomUIslider/blob/main/output.png" width="240" height="500" /> <img src="https://github.com/PayalUmraliya/PUCustomUIslider/blob/main/output2.png" width="240" height="500" /> <img src="https://github.com/PayalUmraliya/PUCustomUIslider/blob/main/output3.png" width="240" height="500" />
+<img src="https://github.com/PayalUmraliya/PUCustomUIslider/blob/main/screenshots/output.png" width="240" height="500" /> <img src="https://github.com/PayalUmraliya/PUCustomUIslider/blob/main/screenshots/output2.png" width="240" height="500" /> <img src="https://github.com/PayalUmraliya/PUCustomUIslider/blob/main/screenshots/output3.png" width="240" height="500" />
 
 ## Usage
 
@@ -52,7 +52,7 @@ PUGradientSlider.setSliderWithFrame(CGRect(x: 0.0, y: 0.0, width: slidernw.bound
 * 4 - To Add frameworks, click the “+” below the list of frameworks.
 * 5 - To select multiple frameworks, press and hold the command key while using the mouse to click the desired frameworks.
 
-<img src="https://github.com/PayalUmraliya/PUCustomUIslider/blob/main/x6iMB.png"/>
+<img src="https://github.com/PayalUmraliya/PUCustomUIslider/blob/main/screenshots/x6iMB.png"/>
 
 ### For more detail follow the link below :
 
@@ -60,7 +60,7 @@ https://developer.apple.com/library/archive/technotes/tn2435/_index.html
 
 ##### Make sure you embed the framework without signing as below image.
 
-<img src="https://github.com/PayalUmraliya/PUCustomUIslider/blob/main/importaslikethis.png"/>
+<img src="https://github.com/PayalUmraliya/PUCustomUIslider/blob/main/screenshots/importaslikethis.png"/>
 
 ## Author
 
