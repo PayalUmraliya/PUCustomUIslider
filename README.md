@@ -1,6 +1,6 @@
-# PUCustomUIslider Framework
+# PUCustomUISlider Framework
 
-Customised UI Slider
+Customised UISlider
 
 #### A framework is a hierarchical directory that encapsulates a dynamic library, header files, and resources, such as storyboards, image files, and localized strings, into a single package. Apps using frameworks need to embed the framework in the app's bundle.
 
