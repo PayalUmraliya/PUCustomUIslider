@@ -11,8 +11,6 @@ Customised UI Slider
 
 ## USAGE
 
-Before proceding further we need to add framework in the project. 
-
 ### Add  framework into the project as following:
 
 1.Select the project file from the project navigator on the left side of the project window.
