@@ -14,8 +14,23 @@
 		88EF68B725DE40B60093BB0B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 88EF68B625DE40B60093BB0B /* Assets.xcassets */; };
 		88EF68BA25DE40B60093BB0B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 88EF68B825DE40B60093BB0B /* LaunchScreen.storyboard */; };
 		88EF68C325DE40D60093BB0B /* thumbtint.png in Resources */ = {isa = PBXBuildFile; fileRef = 88EF68C225DE40D60093BB0B /* thumbtint.png */; };
-		88EF68C625DE40F50093BB0B /* PuGradientUISlider.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 88EF68C525DE40F50093BB0B /* PuGradientUISlider.framework */; };
+		88EF68D225DE4B750093BB0B /* PuGradientUISlider.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 88EF68C525DE40F50093BB0B /* PuGradientUISlider.framework */; };
+		88EF68D325DE4B750093BB0B /* PuGradientUISlider.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 88EF68C525DE40F50093BB0B /* PuGradientUISlider.framework */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
 /* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		88EF68D425DE4B750093BB0B /* Embed Frameworks */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 10;
+			files = (
+				88EF68D325DE4B750093BB0B /* PuGradientUISlider.framework in Embed Frameworks */,
+			);
+			name = "Embed Frameworks";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
 		88EF68AA25DE40B30093BB0B /* PUCustomUIslider.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PUCustomUIslider.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -35,7 +50,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				88EF68C625DE40F50093BB0B /* PuGradientUISlider.framework in Frameworks */,
+				88EF68D225DE4B750093BB0B /* PuGradientUISlider.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -84,6 +99,7 @@
 				88EF68A625DE40B30093BB0B /* Sources */,
 				88EF68A725DE40B30093BB0B /* Frameworks */,
 				88EF68A825DE40B30093BB0B /* Resources */,
+				88EF68D425DE4B750093BB0B /* Embed Frameworks */,
 			);
 			buildRules = (
 			);
