@@ -18,6 +18,8 @@ Copyright (c) 2021 TheKarma
 
 <img src="https://github.com/PayalUmraliya/PUCustomUIslider/blob/main/output.png" width="240" height="500" />
 
+<img src="https://github.com/PayalUmraliya/PUCustomUIslider/blob/main/output2.png" width="240" height="500" />
+
 ## Usage
 
 ```
