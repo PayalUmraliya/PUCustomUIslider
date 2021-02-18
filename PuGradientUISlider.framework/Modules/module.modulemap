@@ -1,0 +1,6 @@
+framework module PuGradientUISlider {
+  umbrella header "PuGradientUISlider.h"
+
+  export *
+  module * { export * }
+}
