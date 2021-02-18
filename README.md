@@ -8,7 +8,7 @@ The MIT License (MIT)
 
 Copyright (c) 2021 TheKarma
 
-### Metadata
+## Metadata
 
 #### A framework is a hierarchical directory that encapsulates a dynamic library, header files, and resources, such as storyboards, image files, and localized strings, into a single package. Apps using frameworks need to embed the framework in the app's bundle.
 
@@ -44,8 +44,7 @@ PUGradientSlider.setSliderWithFrame(CGRect(x: 0.0, y: 0.0, width: slidernw.bound
 * 5 - Thumb indicator background color
 * 6 - Thumb image (UIImage - if you pass nil to the thumbImg then it will use thumbBgColor param else it will use the thumbImg)
 
-
-* ### Add  framework into the project as following:
+### Add  framework into the project as following:
 
 * 1 - Select the project file from the project navigator on the left side of the project window.
 * 2 - Select the target for where you want to add frameworks in the project settings editor.
@@ -55,14 +54,13 @@ PUGradientSlider.setSliderWithFrame(CGRect(x: 0.0, y: 0.0, width: slidernw.bound
 
 <img src="https://github.com/PayalUmraliya/PUCustomUIslider/blob/main/x6iMB.png"/>
 
-* ## For more detail follow the link below :
+### For more detail follow the link below :
 
 https://developer.apple.com/library/archive/technotes/tn2435/_index.html
 
-Make sure you embed the framework without signing as below image.
+##### Make sure you embed the framework without signing as below image.
 
 <img src="https://github.com/PayalUmraliya/PUCustomUIslider/blob/main/importaslikethis.png"/>
-
 
 ## Author
 
