@@ -20,9 +20,15 @@ Customised UI Slider
 * 4.To Add frameworks, click the “+” below the list of frameworks.
 * 5.To select multiple frameworks, press and hold the command key while using the mouse to click the desired frameworks.
 
+<img src="https://github.com/PayalUmraliya/PUCustomUIslider/blob/main/x6iMB.png" />
+
 * ## For more detail follow the link below :
 
 https://developer.apple.com/library/archive/technotes/tn2435/_index.html
+
+Make sure you embed the framework without signing as below image.
+
+<img src="https://github.com/PayalUmraliya/PUCustomUIslider/blob/main/importaslikethis.png"/>
 
 ## Code
 
