@@ -1,10 +1,10 @@
 # PUCustomUISlider - Framework
 
-Customised UISlider
+Customised UISlider in a single function call
 
 #### A framework is a hierarchical directory that encapsulates a dynamic library, header files, and resources, such as storyboards, image files, and localized strings, into a single package. Apps using frameworks need to embed the framework in the app's bundle.
 
-#### PUCustomUIslider is also such kind of framework and using it you can apply customisation in your native slider such as background color, slider height, thumb color, thumb image, background image and its framing etc.
+#### PUCustomUIslider is also such kind of framework and using it you can apply customisation in your native slider such as background color or gradient background color, slider height, thumb color, thumb image, background image and its framing etc.
 
 ### Example project output
 
@@ -48,7 +48,7 @@ Use below code for customisation
 PUGradientSlider.setSliderWithFrame(CGRect(x: 0.0, y: 0.0, width: slidernw.bounds.width, height: 12.0 ), sliderNamed: slidernw, withcolors: [UIColor.red.cgColor, UIColor.yellow.cgColor, UIColor.green.cgColor], thumbFrm: CGRect(x: 0, y: 0, width: 35.0, height: 35.0), thumbBgColor: UIColor.green,thumbImg: UIImage.init(named: "thumbtint")!)
 ```
 
-* ###### Above function take 6 parameters
+* ###### Above function takes 6 parameters
 * 1 - Frame for the slider (for height customisation)
 * 2 - Outlet name for the UISlider
 * 3 - Array of colors for Gradient or you can give single color as an array or same color in array as well
