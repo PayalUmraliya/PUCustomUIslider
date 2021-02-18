@@ -7,7 +7,7 @@ Customised UI Slider
 
 ### Example project output
 
-<img src="https://github.com/PayalUmraliya/PUGifLoaderControl/blob/master/projectoutput.gif" width="240" height="500" />
+<img src="https://github.com/PayalUmraliya/PUCustomUIslider/blob/main/output.png" width="240" height="500" />
 
 ## USAGE
 
@@ -46,7 +46,7 @@ PUGradientSlider.setSliderWithFrame(CGRect(x: 0.0, y: 0.0, width: slidernw.bound
 * ###### Above function take 4 parameters
 * 1 - Frame for the slider (for height customisation)
 * 2 - Outlet name for the UISlider
-* 3 - Array of colors for Gradient or you can give single color as well
+* 3 - Array of colors for Gradient or you can give single color as an array or same color in array as well
 * 4 - Thumb indicator frame (Height and width)
 * 5 - Thumb indicator background color
 * 6 - Thumb image (UIImage - if you pass nil to the thumbImg then it will use thumbBgColor param else it will use the thumbImg)
