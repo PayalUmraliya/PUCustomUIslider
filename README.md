@@ -14,7 +14,7 @@ Copyright (c) 2021 TheKarma
 
 #### PUCustomUIslider is also such kind of framework and using it you can apply customisation in your native slider such as background color or gradient background color, slider height, thumb color, thumb image, background image and its framing etc.
 
-## Note :- This framework is compatible will all swift versions.
+## Note :- This framework is compatible with all swift versions.
 
 ### Example project output
 
